@@ -164,7 +164,7 @@ th {
 
 .before::before {
   content: "";
-  background-image: url(ICON.png);
+  background-image: url('ICON.png');
   background-size: 17px 14px;
   width: 17px;
   height: 14px;
